@@ -13,13 +13,13 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 <!--toc-start-->
 * [Formulário de testes](#formulário-de-testes)
 * [Versões](#versões)
-  * .[Atual estável](#atual-estável)
-  * .[Atual em testes](#atual-testes)
-  * .[Anteriores](#anteriores)
-  * .[Histórico de lançamentos](#histórico-de-lançamentos)
-* .[Tutoriais](#tutoriais)
-  * .[Video Tutoriais](#vídeo-tutoriais)
-  * .[Interface e navegação](#interface-e-navegação)
+  * [Atual estável](#atual-estável)
+  * [Atual em testes](#atual-testes)
+  * [Anteriores](#anteriores)
+  * [Histórico de lançamentos](#histórico-de-lançamentos)
+* [Tutoriais](#tutoriais)
+  * [Video Tutoriais](#vídeo-tutoriais)
+  * [Interface e navegação](#interface-e-navegação)
 <!--toc-end-->
 
 ---
