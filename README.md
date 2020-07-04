@@ -47,6 +47,7 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 ### Histórico de lançamentos
 
 -0.7.0: Primeiro lançamento de testes beta
+
   -Continuar próximas atualizações.
 
 ---
@@ -55,8 +56,10 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 ### Video-Tutoriais
 
 *Aqui estão disponíveis os vídeo-tutoriais que postei no Youtube para auxiliar no uso do software e alguns tutoriais básicos de Arduino para quem não possui muitos conhecimentos com esse microcontrolador.*
+
 1. Arduino
   -Escrever os temas
+
 2. Software
   -Escrever os temas
   
