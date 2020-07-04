@@ -8,13 +8,29 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 
 **IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do formulário disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
 
-# Formulário de testes
+---
+
+<!--toc-start-->
+* [Formulário de testes](#formulario-de-testes)
+* [Downloads](#downloads)
+  * .[Atual estável](#atual-estavel)
+  * .[Atual em testes](#atual-testes)
+  * .[Anteriores](#anteriores)
+  * .[Histórico de lançamentos](#historico-de-lancamentos)
+* .[Tutoriais](#tutoriais)
+  * .[Video Tutoriais](#video-tutoriais)
+  * .[Interface e navegação](#interface-e-navegacao)
+<!--toc-end-->
+
+---
+
+## Formulário de testes
 
 Com intuito de coletar dados para aprimorar melhor o programa, criei esse simples formulário para reportarem possíveis bugs, erros ou sugestões, agradeço a todos que entrarem no link: ~LINK DO FORMULÁRIO~
 
-# Downloads
+---
 
-## Versão
+## Versões
 
 ### Atual estável
 
@@ -33,9 +49,10 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 -0.7.0: Primeiro lançamento de testes beta
   -Continuar próximas atualizações.
 
-# Tutoriais
+---
+## Tutoriais
 
-## Video-Tutoriais
+### Video-Tutoriais
 
 *Aqui estão disponíveis os vídeo-tutoriais que postei no Youtube para auxiliar no uso do software e alguns tutoriais básicos de Arduino para quem não possui muitos conhecimentos com esse microcontrolador.*
 1. Arduino
@@ -43,6 +60,6 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 2. Software
   -Escrever os temas
   
-## Interface e navegação
+### Interface e navegação
 
 *Prints explicando a interface do programa*
