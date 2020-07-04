@@ -8,8 +8,8 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 
 **IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do formulário disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
 
----
 # Sumário
+
 <!--toc-start-->
 * [Formulário de testes](#formulário-de-testes)
 * [Versões](#versões)
@@ -22,13 +22,9 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
   * [Interface e navegação](#interface-e-navegação)
 <!--toc-end-->
 
----
-
 ## Formulário de testes
 
 Com intuito de coletar dados para aprimorar melhor o programa, criei esse simples formulário para reportarem possíveis bugs, erros ou sugestões, agradeço a todos que entrarem no link: ~LINK DO FORMULÁRIO~
-
----
 
 ## Versões
 
@@ -50,7 +46,6 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 
   -Continuar próximas atualizações.
 
----
 ## Tutoriais
 
 ### Vídeo-Tutoriais
