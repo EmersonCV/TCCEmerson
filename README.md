@@ -11,15 +11,15 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 ---
 
 <!--toc-start-->
-* [Formulário de testes](#formulario-de-testes)
-* [Downloads](#downloads)
-  * .[Atual estável](#atual-estavel)
+* [Formulário de testes](#formulário-de-testes)
+* [Versões](#versões)
+  * .[Atual estável](#atual-estável)
   * .[Atual em testes](#atual-testes)
   * .[Anteriores](#anteriores)
-  * .[Histórico de lançamentos](#historico-de-lancamentos)
+  * .[Histórico de lançamentos](#histórico-de-lançamentos)
 * .[Tutoriais](#tutoriais)
-  * .[Video Tutoriais](#video-tutoriais)
-  * .[Interface e navegação](#interface-e-navegacao)
+  * .[Video Tutoriais](#vídeo-tutoriais)
+  * .[Interface e navegação](#interface-e-navegação)
 <!--toc-end-->
 
 ---
@@ -53,7 +53,7 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 ---
 ## Tutoriais
 
-### Video-Tutoriais
+### Vídeo-Tutoriais
 
 *Aqui estão disponíveis os vídeo-tutoriais que postei no Youtube para auxiliar no uso do software e alguns tutoriais básicos de Arduino para quem não possui muitos conhecimentos com esse microcontrolador.*
 
