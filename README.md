@@ -9,7 +9,7 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 **IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do formulário disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
 
 ---
-
+# Sumário
 <!--toc-start-->
 * [Formulário de testes](#formulário-de-testes)
 * [Versões](#versões)
