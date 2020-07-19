@@ -20,6 +20,7 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 * [Tutoriais](#tutoriais)
   * [Video Tutoriais](#vídeo-tutoriais)
   * [Interface e navegação](#interface-e-navegação)
+* [Copyright](https://github.com/EmersonCV/TCCEmerson/blob/master/LICENSE)
 <!--toc-end-->
 
 ## Formulário de testes
