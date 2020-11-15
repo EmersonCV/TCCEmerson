@@ -6,7 +6,7 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 
 **IMPORTANTE 1**: *Não necessita de instalação, basta executar o arquivo.*
 
-**IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do formulário disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
+**IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do * [Formulário de testes](#formulário-de-testes) disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
 
 # Sumário
 
@@ -24,7 +24,7 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 
 ## Formulário de bugs e sugestões
 
-Com intuito de coletar dados para aprimorar melhor o programa, criei esse simples formulário para reportarem possíveis bugs, erros ou sugestões, agradeço a todos que entrarem no link: ~LINK DO FORMULÁRIO~
+Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse formulário para reportarem possíveis bugs, erros ou sugestões, agradeço a todos que entrarem no link: * [FORMULÁRIO](https://forms.gle/rHGeHskT5XBgKVj29)
 
 ## Versões
 
