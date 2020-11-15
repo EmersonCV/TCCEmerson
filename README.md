@@ -31,7 +31,7 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 
 ### Atual estável
 
-* [TCC 0.7.0 (pt-br)](#atual-estável)
+* [TCC 0.7.0 (pt-br)](v0.7.0-beta-(ptBR))
 
 ### Atual testes
 
