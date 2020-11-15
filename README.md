@@ -56,18 +56,12 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
   -Pré-Compilação: Formulários, componentes, nomes, avisos.
   
   -Código gerado:
-    
-    -Entradas: Debounces e Filtros Analógicos;
-    
-    -Saídas: Definir valor e PID;
-    
-    -Tempo de varredura;
-    
-    -Transição e lógica dos estados;
-    
-    -Frases no LCD;
+        -Entradas: Debounces e Filtros Analógicos;
+        -Saídas: Definir valor e PID;
+        -Ciclo de varredura;
+        -Transição e lógica dos estados;
+        -Frases no LCD;
    
-  
 
 ## Tutoriais
 
