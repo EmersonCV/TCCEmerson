@@ -13,8 +13,7 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 <!--toc-start-->
 * [Formulário de testes](#formulário-de-testes)
 * [Versões](#versões)
-  * [Atual estável](#atual-estável)
-  * [Atual em testes](#atual-testes)
+  * [Atual](#atual)
   * [Anteriores](#anteriores)
   * [Histórico de lançamentos](#histórico-de-lançamentos)
 * [Tutoriais](#tutoriais)
@@ -29,13 +28,9 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 
 ## Versões
 
-### Atual estável
+### Atual
 
-* [TCC 0.7.0 (pt-br)](v0.7.0-beta-(ptBR))
-
-### Atual testes
-
-- 0.7.1 (Indisponível)
+* [TCC 0.7.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.7.0-beta-(ptBR))
 
 ### Anteriores
 
