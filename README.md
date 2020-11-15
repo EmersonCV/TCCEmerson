@@ -69,9 +69,7 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
 
 *Aqui estão disponíveis os vídeo-tutoriais que postei no Youtube para auxiliar no uso do software.*
 
-* [Playlist Youtube](https://www.youtube.com/playlist?list=PL3qKEtYRgLbeH7AN0ey96xThbChCQA10R)
-
-  -Escrever os temas
+* [Playlist Youtube - Ainda não existem tutoriais](https://www.youtube.com/playlist?list=PL3qKEtYRgLbeH7AN0ey96xThbChCQA10R)
   
 ### Interface e navegação
 
