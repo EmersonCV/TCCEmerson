@@ -23,7 +23,7 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 * [Copyright](https://github.com/EmersonCV/TCCEmerson/blob/master/LICENSE)
 <!--toc-end-->
 
-## Formulário de testes
+## Formulário de bugs e sugestões
 
 Com intuito de coletar dados para aprimorar melhor o programa, criei esse simples formulário para reportarem possíveis bugs, erros ou sugestões, agradeço a todos que entrarem no link: ~LINK DO FORMULÁRIO~
 
@@ -31,7 +31,7 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 
 ### Atual estável
 
-- TCC 0.7.0 (pt-br)
+* [TCC 0.7.0 (pt-br)](#atual-estável)
 
 ### Atual testes
 
@@ -75,6 +75,7 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 *Aqui estão disponíveis os vídeo-tutoriais que postei no Youtube para auxiliar no uso do software.*
 
 * [Playlist Youtube](https://www.youtube.com/playlist?list=PL3qKEtYRgLbeH7AN0ey96xThbChCQA10R)
+
   -Escrever os temas
   
 ### Interface e navegação
