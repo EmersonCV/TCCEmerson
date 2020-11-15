@@ -53,9 +53,13 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
   * Código gerado:
   
        Entradas: Debounces e Filtros Analógicos;
+       
        Saídas: Definir valor e PID;
+       
        Ciclo de varredura;
+       
        Transição e lógica dos estados;
+       
        Frases no LCD.
    
 
