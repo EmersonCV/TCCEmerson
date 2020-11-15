@@ -8,6 +8,8 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 
 **IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do [formulário](#formulário) disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
 
+**IMPORTANTE 3**: *Todas as versões também estão disponíveis no [Google Drive](https://drive.google.com/drive/folders/1UCouTdIfPdof5EfPR2Y5R4nd5PCfJvNz?usp=sharing).*
+
 # Sumário
 
 <!--toc-start-->
