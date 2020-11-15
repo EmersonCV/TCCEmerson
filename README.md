@@ -50,17 +50,17 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
   
   * Pré-Compilação: Formulários, componentes, nomes, avisos.
   
-  * Código gerado:
+  * - Código gerado:
   
-       Entradas: Debounces e Filtros Analógicos;
+       -Entradas: Debounces e Filtros Analógicos;
        
-       Saídas: Definir valor e PID;
+       -Saídas: Definir valor e PID;
        
-       Ciclo de varredura;
+       -Ciclo de varredura;
        
-       Transição e lógica dos estados;
+       -Transição e lógica dos estados;
        
-       Frases no LCD.
+       -Frases no LCD.
    
 
 ## Tutoriais
