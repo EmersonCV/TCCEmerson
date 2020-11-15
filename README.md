@@ -46,15 +46,25 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 -0.7.0: Primeiro lançamento de testes beta:
 
   -Layout base definido;
+  
   -Componentes básicos inseridos;
+  
   -LCD Implementado;
+  
   -Variáveis Int, Float e Bool implementadas;
+  
   -Pré-Compilação: Formulários, componentes, nomes, avisos.
+  
   -Código gerado:
+    
     -Entradas: Debounces e Filtros Analógicos;
+    
     -Saídas: Definir valor e PID;
+    
     -Tempo de varredura;
+    
     -Transição e lógica dos estados;
+    
     -Frases no LCD;
    
   
