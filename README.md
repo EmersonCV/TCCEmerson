@@ -43,7 +43,8 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 
 ### Histórico de lançamentos
 
--0.7.0: Primeiro lançamento de testes beta
+-0.7.0: Primeiro lançamento de testes beta:
+
   -Layout base definido;
   -Componentes básicos inseridos;
   -LCD Implementado;
