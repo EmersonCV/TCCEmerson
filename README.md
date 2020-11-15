@@ -50,7 +50,7 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
   
   * Pré-Compilação: Formulários, componentes, nomes, avisos.
   
-  * - Código gerado:
+ * Código gerado:
   
        -Entradas: Debounces e Filtros Analógicos;
        
