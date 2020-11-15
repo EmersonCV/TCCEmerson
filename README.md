@@ -24,7 +24,7 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 
 ## Formulário
 
-Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse formulário para reportarem possíveis bugs, erros ou sugestões, agradeço a todos que entrarem no link: * [FORMULÁRIO](https://forms.gle/rHGeHskT5XBgKVj29)
+Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse formulário para reportarem possíveis bugs, erros ou sugestões, agradeço a todos que entrarem no link: [FORMULÁRIO](https://forms.gle/rHGeHskT5XBgKVj29)
 
 ## Versões
 
