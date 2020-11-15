@@ -2,7 +2,7 @@
 
 [![total downloads](https://img.shields.io/github/downloads/EmersonCV/TCCEmerson/total)](https://github.com/EmersonCV/TCCEmerson/releases) ![](https://img.shields.io/badge/Email-emerson.voltarelli62%40gmail.com-green) ![](https://img.shields.io/badge/Versão-0.7.0_Beta-yellow)
 
-Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Engenharia de Controle e Automação do IFSP de São João da Boa Vista e aqui estão todos os arquivos e informações sobre meu projeto de TCC. O projeto tem como base criar um software funcional de programação de microcontroladores pela lógica de máquina de estados, onde está sendo desenvolvido uma interface gráfica para programar a lógica do projeto que gera um código pronto para rodar na IDE do microcontrolador, afim de facilitar a etapa de implementação da solução. A ideia inicial era usar uma gama alta de microcontroladores, mas para os primeiros testes será desenvolvido apenas uma versão para o Arduino. Para qualquer dúvida, estou disponibilizando um formulário para reporte de bugs e erros, mas também posso responder por email: emerson.voltarelli62@gmail.com.
+Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Engenharia de Controle e Automação do IFSP de São João da Boa Vista e aqui estão todos os arquivos e informações sobre meu projeto de TCC. O projeto tem como base criar um software funcional de programação de microcontroladores pela lógica de máquina de estados, através de uma interface gráfica para programar a lógica do projeto que gera um código pronto para rodar na IDE do microcontrolador, afim de facilitar a etapa de implementação da solução. A ideia inicial era usar uma gama alta de microcontroladores, mas para os primeiros testes será desenvolvido apenas uma versão para o Arduino. Para qualquer dúvida, estou disponibilizando um formulário para reporte de bugs, erros e sugestões, mas também é possivel entrar em contato pelo email: emerson.voltarelli62@gmail.com.
 
 **IMPORTANTE 1**: *Não necessita de instalação, basta executar o arquivo.*
 
@@ -44,19 +44,27 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 ### Histórico de lançamentos
 
 -0.7.0: Primeiro lançamento de testes beta
-
-  -Continuar próximas atualizações.
+  -Layout base definido;
+  -Componentes básicos inseridos;
+  -LCD Implementado;
+  -Variáveis Int, Float e Bool implementadas;
+  -Pré-Compilação: Formulários, componentes, nomes, avisos.
+  -Código gerado:
+    -Entradas: Debounces e Filtros Analógicos;
+    -Saídas: Definir valor e PID;
+    -Tempo de varredura;
+    -Transição e lógica dos estados;
+    -Frases no LCD;
+   
+  
 
 ## Tutoriais
 
 ### Vídeo-Tutoriais
 
-*Aqui estão disponíveis os vídeo-tutoriais que postei no Youtube para auxiliar no uso do software e alguns tutoriais básicos de Arduino para quem não possui muitos conhecimentos com esse microcontrolador.*
+*Aqui estão disponíveis os vídeo-tutoriais que postei no Youtube para auxiliar no uso do software.*
 
-1. Arduino
-  -Escrever os temas
-
-2. Software
+* [Playlist Youtube](https://www.youtube.com/playlist?list=PL3qKEtYRgLbeH7AN0ey96xThbChCQA10R)
   -Escrever os temas
   
 ### Interface e navegação
