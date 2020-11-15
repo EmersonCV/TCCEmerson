@@ -6,7 +6,7 @@ Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Eng
 
 **IMPORTANTE 1**: *Não necessita de instalação, basta executar o arquivo.*
 
-**IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do [Formulário](#formulário-de-testes) disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
+**IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do [Formulário](#formulário) disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
 
 # Sumário
 
