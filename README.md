@@ -38,7 +38,7 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 
 ### Histórico de lançamentos
 
-####0.7.0: Primeiro lançamento de testes beta (15/11/2020):
+#### 0.7.0: Primeiro lançamento de testes beta (15/11/2020):
 
   -Layout definido;
   
