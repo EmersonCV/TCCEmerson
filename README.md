@@ -43,24 +43,29 @@ Com intuito de coletar dados para aprimorar melhor o programa, criei esse simple
 
 ### Histórico de lançamentos
 
--0.7.0: Primeiro lançamento de testes beta:
+-0.7.0: Primeiro lançamento de testes beta (15/11/2020):
 
-  -Layout base definido;
+  -Layout definido;
   
-  -Componentes básicos inseridos;
+  -Entradas, saídas e estados inseridos;
   
   -LCD Implementado;
   
-  -Variáveis Int, Float e Bool implementadas;
+  -Variáveis Inteiras, Float e Booleanas implementadas;
   
   -Pré-Compilação: Formulários, componentes, nomes, avisos.
   
   -Código gerado:
-        -Entradas: Debounces e Filtros Analógicos;
-        -Saídas: Definir valor e PID;
-        -Ciclo de varredura;
-        -Transição e lógica dos estados;
-        -Frases no LCD;
+  
+       -Entradas: Debounces e Filtros Analógicos;
+       
+       -Saídas: Definir valor e PID;
+       
+       -Ciclo de varredura;
+       
+       -Transição e lógica dos estados;
+       
+       -Frases no LCD;
    
 
 ## Tutoriais
