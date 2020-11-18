@@ -66,17 +66,16 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
        
          -Frases no LCD.
          
-## Apresentação   
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DZ-aSdm23UY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+         
 ## Tutoriais
 
 ### Vídeo-Tutoriais
 
 *Aqui estão disponíveis os vídeo-tutoriais que postei no Youtube para auxiliar no uso do software.*
 
-* [Playlist Youtube - Ainda não existem tutoriais](https://www.youtube.com/playlist?list=PL3qKEtYRgLbeH7AN0ey96xThbChCQA10R)
+* [Playlist Youtube](https://www.youtube.com/playlist?list=PL3qKEtYRgLbeH7AN0ey96xThbChCQA10R)
+    * [Introdução](https://youtu.be/DZ-aSdm23UY)
+    * [Entradas digitais e analógicas](https://youtu.be/d337311d_B0)
   
 ### Interface e navegação
 
