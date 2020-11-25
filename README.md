@@ -75,6 +75,7 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
 
 * [Playlist Youtube](https://www.youtube.com/playlist?list=PL3qKEtYRgLbeH7AN0ey96xThbChCQA10R)
     * [Introdução](https://youtu.be/DZ-aSdm23UY)
+    * [Máquina de estados](https://www.youtube.com/watch?v=a5DeDrkABXk&t)
     * [Entradas digitais e analógicas](https://youtu.be/d337311d_B0)
     * [Saídas digitais e analógicas](https://www.youtube.com/watch?v=x7HS153erTk)
     * [Display LCD](https://www.youtube.com/watch?v=UwaOMptXVWg)
