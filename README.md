@@ -1,12 +1,12 @@
 # TCCEmerson
 
-[![total downloads](https://img.shields.io/github/downloads/EmersonCV/TCCEmerson/total)](https://github.com/EmersonCV/TCCEmerson/releases) ![](https://img.shields.io/badge/Email-emerson.voltarelli62%40gmail.com-green) ![](https://img.shields.io/badge/Versão-0.7.0_Beta-yellow)
+[![total downloads](https://img.shields.io/github/downloads/EmersonCV/TCCEmerson/total)](https://github.com/EmersonCV/TCCEmerson/releases) ![](https://img.shields.io/badge/Email-emerson.voltarelli62%40gmail.com-green) ![](https://img.shields.io/badge/Versão-0.8.0_Beta-yellow)
 
 Olá, me chamo Emerson Castelhano Voltarelli, sou estudante do ultimo ano de Engenharia de Controle e Automação do IFSP de São João da Boa Vista e aqui estão todos os arquivos e informações sobre meu projeto de TCC. O projeto tem como base criar um software funcional de programação de microcontroladores pela lógica de máquina de estados, através de uma interface gráfica para programar a lógica do projeto que gera um código pronto para rodar na IDE do microcontrolador, afim de facilitar a etapa de implementação da solução. A ideia inicial era usar uma gama alta de microcontroladores, mas para os primeiros testes será desenvolvido apenas uma versão para o Arduino. Para qualquer dúvida, estou disponibilizando um [formulário](#formulário) para reporte de bugs, erros e sugestões, mas também é possivel entrar em contato pelo email: emerson.voltarelli62@gmail.com.
 
 Professor Orientador: Daniel Espanhol Razera. (lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4761668T7)
 
-**IMPORTANTE 1**: *Não necessita de instalação, basta executar o arquivo.*
+**IMPORTANTE 1**: *Não necessita de instalação, basta rodar o executável.*
 
 **IMPORTANTE 2**: *Se possível, após usar o programa e encontrar algum bug, por favor reporte pelo link do [formulário](#formulário) disponível abaixo, é simples e rápido e me ajudará com as futuras versões.*
 
@@ -17,7 +17,7 @@ Professor Orientador: Daniel Espanhol Razera. (lattes: http://buscatextual.cnpq.
 <!--toc-start-->
 * [Formulário](#formulário)
 * [Versões](#versões)
-  * [Atual estável](#atual-estável)
+  * [Atual](#atual)
   * [Anteriores](#anteriores)
   * [Histórico de lançamentos](#histórico-de-lançamentos)
 * [Tutoriais](#tutoriais)
@@ -32,15 +32,31 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
 
 ## Versões
 
-### Atual estável
+### Atual
 
-* [TCC 0.7.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.7.0-beta-(ptBR))
+* [TCC 0.8.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.8.0-beta-(ptBR))
 
 ### Anteriores
 
-- Indisponível
+* [TCC 0.7.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.7.0-beta-(ptBR))
 
 ### Histórico de lançamentos
+
+#### 0.8.0: Correções e novas features (02/12/2020):
+
+     * Adicionado variáveis do tipo 'Tempo' (contadores, timers e clocks);
+     
+     * Inserido os tutoriais no programa;
+     
+     * Corrigido alguns textos errados;
+     
+     * Corrigido pinos E e R/W invertidos no LCD;;
+     
+     * Corrigido problema ao editar LCD;
+     
+     * Corrigido pino ENABLE na lista de LCD;
+     
+     * Ajustado posição de filtros e debounces nas configurações.
 
 #### 0.7.0: Primeiro lançamento de testes beta (15/11/2020):
 
@@ -79,6 +95,7 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
     * [Entradas digitais e analógicas](https://youtu.be/d337311d_B0)
     * [Saídas digitais e analógicas](https://www.youtube.com/watch?v=x7HS153erTk)
     * [Display LCD](https://www.youtube.com/watch?v=UwaOMptXVWg)
+    * [Variáveis]()
   
 ### Interface e navegação
 
