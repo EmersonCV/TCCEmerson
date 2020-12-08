@@ -36,6 +36,8 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
 
 * [TCC 0.8.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.8.0-beta-(ptBR))
 
+* [Vídeo detalhando a versão](https://www.youtube.com/watch?v=cLKcILNXyVQ)
+
 ### Anteriores
 
 * [TCC 0.7.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.7.0-beta-(ptBR))
@@ -95,7 +97,7 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
     * [Entradas digitais e analógicas](https://youtu.be/d337311d_B0)
     * [Saídas digitais e analógicas](https://www.youtube.com/watch?v=x7HS153erTk)
     * [Display LCD](https://www.youtube.com/watch?v=UwaOMptXVWg)
-    * [Variáveis]()
+    * [Variáveis](https://www.youtube.com/watch?v=LftITC0HxAc&t)
   
 ### Interface e navegação
 
