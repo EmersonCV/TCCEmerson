@@ -56,7 +56,7 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
      
      * Inserido blocos dividindo o código fonte (facilitação de leitura);
      
-     * Inserido eventos em alguns controles criados dinamicamente;
+     * Inserido eventos em alguns controles criados dinamicamente.
 
 #### 0.8.0: Correções e novas features (02/12/2020):
 
