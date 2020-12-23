@@ -36,7 +36,7 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
 
 * [TCC 0.8.1 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.8.1-beta-(ptBR))
 
-* [Vídeo detalhando a versão]()
+* [Vídeo detalhando a versão](https://youtu.be/irpDHm094xs)
 
 ### Anteriores
 
