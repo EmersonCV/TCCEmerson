@@ -112,7 +112,6 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
     * [Saídas digitais e analógicas](https://www.youtube.com/watch?v=x7HS153erTk)
     * [Display LCD](https://www.youtube.com/watch?v=UwaOMptXVWg)
     * [Variáveis](https://www.youtube.com/watch?v=LftITC0HxAc&t)
-  
-### Interface e navegação
-
-*Prints explicando a interface do programa*
+    * [Funções e Interrupções](https://youtu.be/lHoSV9D4sUU)
+    
+ 
