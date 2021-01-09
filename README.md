@@ -34,11 +34,13 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
 
 ### Atual
 
-* [TCC 0.8.1 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.8.1-beta-(ptBR))
+* [TCC 0.9.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.9.0-beta-(ptBR))
 
-* [Vídeo detalhando a versão](https://youtu.be/irpDHm094xs)
+* [Vídeo detalhando a versão]()
 
 ### Anteriores
+
+* [TCC 0.8.1 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.8.1-beta-(ptBR))
 
 * [TCC 0.8.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.8.0-beta-(ptBR))
 
@@ -46,6 +48,16 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
 
 ### Histórico de lançamentos
 
+#### 0.9.0: Integração com Arduino Command Line (09/01/2021):
+
+     * Inserido opção de configuração de novas placas para o Arduino CLI;
+     
+     * Inserido opção de acesso as configurações gerais e das placas no menu superior;
+     
+     * Adicionado novas etapas de verificação na Pré-Compilação (pinos, avisos, etc);
+     
+     * Integrado Arduino CLI as etapas de compilação e envio do código.
+     
 #### 0.8.1: Funções e interrupções (23/12/2020):
 
      * Adicionado opção para criar e editar funções do usuário;
