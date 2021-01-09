@@ -36,6 +36,8 @@ Com intuito de coletar dados para o TCC e aprimoramento do programa, criei esse 
 
 * [TCC 0.9.0 (pt-br)](https://github.com/EmersonCV/TCCEmerson/releases/tag/v0.9.0-beta-(ptBR))
 
+Nota: O projeto dessa versão está disponível apenas no [Google Drive](https://drive.google.com/drive/folders/1UCouTdIfPdof5EfPR2Y5R4nd5PCfJvNz?usp=sharing).*
+
 * [Vídeo detalhando a versão](https://youtu.be/BN-fXTJBF3o)
 
 ### Anteriores
